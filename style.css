@@ -1,0 +1,74 @@
+body{
+    background-image: url("home-img.jpeg");
+    background-repeat: no-repeat;
+    background-size: 96rem 52rem;
+    margin: 1.5%;
+}
+hr{
+    color: white;
+    opacity: 10%;
+}
+nav{
+    display: flex;
+    margin-top: -.8%;
+}
+nav ul{
+    display: flex;
+    margin-left: 20%;;
+}
+nav ul li{
+    display: flex;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 2%;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+#logo img{
+    margin-left: 45px;
+    height: 2cm;
+    width: 2.3cm;
+}
+#search img{
+    height: .6cm;
+    width: .6cm;
+    margin-top: 8.5%;
+    margin-left: 350px;
+}
+#basket img{
+    height: 2cm;
+    width: 2cm;
+    margin-top: 8.5%;
+    margin-left: 20px;
+}
+#main div{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+#slogan{
+    color: white;
+    width: 50%;
+    font-size: 50px;
+    line-height: 1.7cm;
+}
+#slogan-text{
+    margin-top: -1%;
+    color: white;
+    font-size: 20px;
+    opacity: 0.4;
+    line-height: 1cm;
+}
+button{
+    color: white;
+    background-color: rgb(232, 210, 81);
+    font-size: 15px;
+    height: 1cm;
+    width: 3cm;
+    border-radius: .1cm;
+}
+
+
+
